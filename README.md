@@ -7,80 +7,80 @@ This repository contains my solutions to LeetCode problems, organised by topic a
 
 ## Repository Structure
 
-leetcode-solutions/
+leetcode-solutions
 │
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Math/
-├── BitManipulation/
-├── TwoPointers/
-├── SlidingWindow/
-├── PrefixSum/
-├── BinarySearch/
-├── Sorting/
-├── Recursion/
-├── Backtracking/
-├── Greedy/
-├── DynamicProgramming/
-│   ├── DP1D/
-│   ├── DP2D/
-│   ├── Knapsack/
-│   ├── LIS/
-│   └── IntervalDP/
+├── Arrays
+├── Strings
+├── Hashing
+├── Math
+├── BitManipulation
+├── TwoPointers
+├── SlidingWindow
+├── PrefixSum
+├── BinarySearch
+├── Sorting
+├── Recursion
+├── Backtracking
+├── Greedy
+├── DynamicProgramming
+│   ├── DP1D
+│   ├── DP2D
+│   ├── Knapsack
+│   ├── LIS
+│   └── IntervalDP
 │
-├── LinkedList/
-├── Stack/
-├── MonotonicStack/
-├── Queue/
-├── MonotonicQueue/
-├── Deque/
-├── Heap/
-├── PriorityQueue/
-├── Design/
+├── LinkedList
+├── Stack
+├── MonotonicStack
+├── Queue
+├── MonotonicQueue
+├── Deque
+├── Heap
+├── PriorityQueue
+├── Design
 │
-├── Trees/
-├── BinaryTree/
-├── BinarySearchTree/
-├── Trie/
-├── SegmentTree/
-├── FenwickTree/
-├── UnionFind/
+├── Trees
+├── BinaryTree
+├── BinarySearchTree
+├── Trie
+├── SegmentTree
+├── FenwickTree
+├── UnionFind
 │
-├── Graphs/
-│   ├── BFS/
-│   ├── DFS/
-│   ├── TopologicalSort/
-│   ├── ShortestPath/
-│   ├── MinimumSpanningTree/
-│   ├── UnionFind/
-│   └── StronglyConnectedComponents/
+├── Graphs
+│   ├── BFS
+│   ├── DFS
+│   ├── TopologicalSort
+│   ├── ShortestPath
+│   ├── MinimumSpanningTree
+│   ├── UnionFind
+│   └── StronglyConnectedComponents
 │
-├── Matrix/
-├── Simulation/
-├── Geometry/
-├── Intervals/
-├── SweepLine/
-├── LineSweep/
-├── Counting/
-├── Combinatorics/
-├── NumberTheory/
-├── Randomized/
-├── Database/
-├── SQL/
-├── Concurrency/
-├── Shell/
+├── Matrix
+├── Simulation
+├── Geometry
+├── Intervals
+├── SweepLine
+├── LineSweep
+├── Counting
+├── Combinatorics
+├── NumberTheory
+├── Randomised
+├── Database
+├── SQL
+├── Concurrency
+├── Shell
 │
-├── DailyChallenge/
-│   ├── 2026/
-│   └── 2027/
+├── DailyChallenge
+│   ├── 2026
+│   └── 2027
 │
-├── Contest/
-│   ├── WeeklyContest/
-│   └── BiweeklyContest/
+├── Contest
+│   ├── WeeklyContest
+│   └── BiweeklyContest
 │
-├── Notes/
-├── Templates/
+├── Notes
+├── Templates
 ├── README.md
 └── LICENSE
 
