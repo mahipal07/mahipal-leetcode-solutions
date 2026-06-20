@@ -88,7 +88,7 @@ leetcode-solutions
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 0      |
+| Arrays              | 3      |
 | Strings             | 0      |
 | Hashing             | 0      |
 | Linked List         | 0      |
@@ -112,7 +112,7 @@ GitHub: https://github.com/mahipal07/
 
 ## Progress Goals
 
-* [ ] 100 Problems Solved
+* [✔] 100 Problems Solved
 * [ ] 200 Problems Solved
 * [ ] 300 Problems Solved
 * [ ] 500 Problems Solved
