@@ -6,6 +6,7 @@
 
 # @lc code=start
 class Solution:
+    
     def maxBuilding(self, n: int, restrictions: List[List[int]]) -> int:
         restrictions.append([1, 0])
         restrictions.sort()
