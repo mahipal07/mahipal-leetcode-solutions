@@ -13,7 +13,7 @@ class Solution(object):
         dp = [[False] * (n + 1) for _ in range(m + 1)]
         dp[0][0] = True  # empty string matches empty pattern
         
-        # Handle patterns like a*, a*b*, a*b*c* that can match empty string
+        # Handle patterns like a*, a*b*, etc. that can match empty string
         for j in range(2, n + 1):
             if p[j-1] == '*':
                 dp[0][j] = dp[0][j-2]
@@ -30,6 +30,7 @@ class Solution(object):
                         dp[i][j] = dp[i][j] or dp[i-1][j]
         
         return dp[m][n]
+
 
         
 # @lc code=end
