@@ -3,6 +3,9 @@
 #
 # [1358] Number of Substrings Containing All Three Characters
 #
+# 54/54 cases passed (87 ms)
+# Your runtime beats 95.77 % of python submissions
+# Your memory usage beats 84.99 % of python submissions (12.6 MB)
 
 # @lc code=start
 class Solution(object):

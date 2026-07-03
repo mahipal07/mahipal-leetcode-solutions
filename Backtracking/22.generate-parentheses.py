@@ -3,6 +3,9 @@
 #
 # [22] Generate Parentheses
 #
+# 8/8 cases passed (1 ms)
+# Your runtime beats 60.59 % of python submissions
+# Your memory usage beats 51.81 % of python submissions (12.7 MB)
 
 # @lc code=start
 class Solution:

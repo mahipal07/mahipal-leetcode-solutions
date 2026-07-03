@@ -5,6 +5,10 @@
 #
 
 # @lc code=start
+# 1036/1036 cases passed (3872 ms)
+# Your runtime beats 96.77 % of python submissions
+# Your memory usage beats 96.77 % of python submissions (21.5 MB)
+
 import heapq
 from collections import deque
 

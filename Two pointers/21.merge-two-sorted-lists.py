@@ -10,6 +10,11 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+# 208/208 cases passed (0 ms)
+# Your runtime beats 100 % of python submissions
+# Your memory usage beats 82.91 % of python submissions (12.3 MB)
+
+
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
         dummy = ListNode(0)

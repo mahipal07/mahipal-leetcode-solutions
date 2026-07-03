@@ -5,6 +5,10 @@
 #
 
 # @lc code=start
+# 103/103 cases passed (0 ms)
+# Your runtime beats 100 % of python submissions
+# Your memory usage beats 95.42 % of python submissions (12.4 MB)
+
 class Solution(object):
     def isValid(self, s):
         stack = []

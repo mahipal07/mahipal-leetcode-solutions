@@ -2,7 +2,9 @@
 # @lc app=leetcode id=3286 lang=python
 #
 # [3286] Find a Safe Walk Through a Grid
-#
+# 691/691 cases passed (93 ms)
+# Your runtime beats 94.74 % of python submissions
+# Your memory usage beats 15.79 % of python submissions (12.7 MB)
 
 # @lc code=start
 import collections
