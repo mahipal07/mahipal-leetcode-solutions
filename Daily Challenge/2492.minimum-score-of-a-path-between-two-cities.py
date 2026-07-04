@@ -3,6 +3,9 @@
 #
 # [2492] Minimum Score of a Path Between Two Cities
 #
+# 43/43 cases passed (185 ms)
+# Your runtime beats 44.73 % of python3 submissions
+# Your memory usage beats 65.61 % of python3 submissions (74.8 MB)
 
 # @lc code=start
 from collections import deque, defaultdict
