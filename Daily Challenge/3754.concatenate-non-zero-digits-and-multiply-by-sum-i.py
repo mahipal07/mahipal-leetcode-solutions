@@ -3,6 +3,9 @@
 #
 # [3754] Concatenate Non-Zero Digits and Multiply by Sum I
 #
+# 954/954 cases passed (4 ms)
+# Your runtime beats 6.09 % of python3 submissions
+# Your memory usage beats 51.25 % of python3 submissions (19.3 MB)
 
 # @lc code=start
 class Solution:
