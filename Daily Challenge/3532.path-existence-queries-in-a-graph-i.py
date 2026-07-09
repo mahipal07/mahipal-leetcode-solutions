@@ -3,6 +3,9 @@
 #
 # [3532] Path Existence Queries in a Graph I
 #
+# 550/550 cases passed (67 ms)
+# Your runtime beats 89.68 % of python3 submissions
+# Your memory usage beats 46.83 % of python3 submissions (50.2 MB)
 
 # @lc code=start
 class Solution:
