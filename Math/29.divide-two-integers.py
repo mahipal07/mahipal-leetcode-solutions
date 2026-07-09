@@ -3,6 +3,9 @@
 #
 # [29] Divide Two Integers
 #
+# 994/994 cases passed (3 ms)
+# Your runtime beats 18.86 % of python3 submissions
+# Your memory usage beats 65.41 % of python3 submissions (19.2 MB)
 
 # @lc code=start
 class Solution:
