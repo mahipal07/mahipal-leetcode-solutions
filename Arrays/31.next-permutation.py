@@ -3,6 +3,9 @@
 #
 # [31] Next Permutation
 #
+# 268/268 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 25.6 % of python3 submissions (19.3 MB)
 
 # @lc code=start
 class Solution:
