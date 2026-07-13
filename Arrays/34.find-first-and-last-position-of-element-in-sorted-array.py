@@ -3,6 +3,9 @@
 #
 # [34] Find First and Last Position of Element in Sorted Array
 #
+# 88/88 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 59.48 % of python3 submissions (20.6 MB)
 
 # @lc code=start
 class Solution:
