@@ -3,6 +3,10 @@
 #
 # [35] Search Insert Position
 #
+# Accepted
+# 66/66 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 11.19 % of python3 submissions (20 MB)
 
 # @lc code=start
 class Solution:
