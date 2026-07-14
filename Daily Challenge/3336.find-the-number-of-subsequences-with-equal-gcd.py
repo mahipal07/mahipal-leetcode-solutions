@@ -3,7 +3,9 @@
 #
 # [3336] Find the Number of Subsequences With Equal GCD
 #
-
+# 622/622 cases passed (1572 ms)
+# Your runtime beats 88.64 % of python3 submissions
+# Your memory usage beats 59.09 % of python3 submissions (23.7 MB)
 # @lc code=start
 import math
 from functools import lru_cache
