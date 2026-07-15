@@ -17,7 +17,7 @@ class Solution:
         
         for _, end in intervals:
             if end > prev_end:
-                count += 1
+                count += 1  
                 prev_end = end
                 
         return count
