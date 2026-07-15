@@ -3,6 +3,9 @@
 #
 # [28] Find the Index of the First Occurrence in a String
 #
+# 85/85 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 8.31 % of python3 submissions (19.4 MB)
 
 # @lc code=start
 class Solution:

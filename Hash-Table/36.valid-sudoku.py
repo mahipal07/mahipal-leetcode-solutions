@@ -3,6 +3,9 @@
 #
 # [36] Valid Sudoku
 #
+# 507/507 cases passed (3 ms)
+# Your runtime beats 75.16 % of python3 submissions
+# Your memory usage beats 34.4 % of python3 submissions (19.4 MB)
 
 # @lc code=start
 class Solution:
