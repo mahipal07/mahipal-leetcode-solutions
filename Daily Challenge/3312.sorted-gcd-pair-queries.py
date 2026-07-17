@@ -3,6 +3,9 @@
 #
 # [3312] Sorted GCD Pair Queries
 #
+# 721/721 cases passed (718 ms)
+# Your runtime beats 25 % of python3 submissions
+# Your memory usage beats 22.5 % of python3 submissions (41.4 MB)
 
 # @lc code=start
 from typing import List
