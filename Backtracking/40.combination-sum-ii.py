@@ -3,9 +3,9 @@
 #
 # [40] Combination Sum II
 #
-# 176/176 cases passed (2 ms)
-# Your runtime beats 89.62 % of python3 submissions
-# Your memory usage beats 13.18 % of python3 submissions (19.6 MB)
+# 176/176 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 13.18 % of python3 submissions (19.7 MB)
 
 # @lc code=start
 class Solution:
