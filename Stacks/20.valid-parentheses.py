@@ -3,6 +3,9 @@
 #
 # [20] Valid Parentheses
 #
+# 185/185 cases passed (1252 ms)
+# Your runtime beats 31.66 % of python3 submissions
+# Your memory usage beats 11.04 % of python3 submissions (228.1 MB)
 
 # @lc code=start
 # 103/103 cases passed (0 ms)
