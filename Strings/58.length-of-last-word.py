@@ -3,6 +3,9 @@
 #
 # [58] Length of Last Word
 #
+# 60/60 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 15.75 % of python3 submissions (19.5 MB)
 
 # @lc code=start
 class Solution:
