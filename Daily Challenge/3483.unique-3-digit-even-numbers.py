@@ -3,6 +3,9 @@
 #
 # [3483] Unique 3-Digit Even Numbers
 #
+# 930/930 cases passed (569 ms)
+# Your runtime beats 5.27 % of python3 submissions
+# Your memory usage beats 20.44 % of python3 submissions (19.5 MB)
 
 # @lc code=start
 class Solution:
@@ -21,6 +24,6 @@ class Solution:
                 ans += 1
 
         return ans
-    
+    \
 # @lc code=end
 

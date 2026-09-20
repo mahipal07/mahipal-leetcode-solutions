@@ -21,7 +21,7 @@
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         if not head or left == right:
-            return head
+            return head1
         
         dummy = ListNode(0)
         dummy.next = head

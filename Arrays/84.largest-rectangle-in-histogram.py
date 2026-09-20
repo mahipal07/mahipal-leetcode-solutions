@@ -3,6 +3,9 @@
 #
 # [84] Largest Rectangle in Histogram
 #
+# 99/99 cases passed (114 ms)
+# Your runtime beats 74.15 % of python3 submissions
+# Your memory usage beats 17.1 % of python3 submissions (36.5 MB)
 
 # @lc code=start
 class Solution:

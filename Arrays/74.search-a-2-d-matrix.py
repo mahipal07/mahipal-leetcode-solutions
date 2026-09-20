@@ -3,6 +3,9 @@
 #
 # [74] Search a 2D Matrix
 #
+# 133/133 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 39.41 % of python3 submissions (19.5 MB)
 
 # @lc code=start
 class Solution:

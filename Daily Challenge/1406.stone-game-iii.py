@@ -3,6 +3,9 @@
 #
 # [1406] Stone Game III
 #
+185/185 cases passed (1252 ms)
+Your runtime beats 31.66 % of python3 submissions
+Your memory usage beats 11.04 % of python3 submissions (228.1 MB)
 
 # @lc code=start
 from typing import List

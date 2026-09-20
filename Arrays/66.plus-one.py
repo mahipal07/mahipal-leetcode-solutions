@@ -3,6 +3,9 @@
 #
 # [66] Plus One
 #
+# 114/114 cases passed (0 ms)
+# Your runtime beats 100 % of python3 submissions
+# Your memory usage beats 18.47 % of python3 submissions (19.3 MB)
 
 # @lc code=start
 class Solution:

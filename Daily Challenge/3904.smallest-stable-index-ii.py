@@ -3,6 +3,10 @@
 #
 # [3904] Smallest Stable Index II
 #
+# Accepted
+# 928/928 cases passed (140 ms)
+# Your runtime beats 83.64 % of python3 submissions
+# Your memory usage beats 7.27 % of python3 submissions (33.5 MB)
 
 # @lc code=start
 class Solution:
