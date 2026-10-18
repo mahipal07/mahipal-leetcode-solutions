@@ -3,9 +3,9 @@
 #
 # [2897] Apply Operations on Array to Maximize Sum of Squares
 #
-# 918/918 cases passed (1453 ms)
-# Your runtime beats 42.55 % of python3 submissions
-# Your memory usage beats 34.04 % of python3 submissions (32.2 MB)
+# 918/918 cases passed (1395 ms)
+# Your runtime beats 69.63 % of python3 submissions
+# Your memory usage beats 49.65 % of python3 submissions (32.1 MB)
 
 # @lc code=start
 class Solution:
